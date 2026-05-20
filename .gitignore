@@ -1,2 +1,5 @@
 # Google Play store assets — not for public website
 store-assets/
+
+# Local Claude Code config
+.claude/
